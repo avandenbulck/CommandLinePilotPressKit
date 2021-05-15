@@ -43,8 +43,8 @@
     Don't forget to specify the country.
   -->
   <address>
-    <line>None</line>
-    <line>Belgium and United Kingdom</line>
+    <line>Begium and</line>
+    <line>United Kingdom</line>
   </address>
 
   <!--
@@ -247,7 +247,7 @@
     <contact>
       <name>Web</name>
       <link>
-        https://avandenbulck.github.io/CommandLinePilotPressKit/
+        https://store.steampowered.com/app/1481630/Command_Line_Pilot/
       </link>
     </contact>
   </contacts>
